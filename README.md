@@ -1,8 +1,5 @@
 
 
-
-<p align="center">Olá meu nome é Artur Bartolelli, sou desenvolvedor de software com ênfase em frontend.<br><br> Estagiário na Verbeux! <br><br> Atualmente cursando Ciência da Computação 5° Semestre na UNIFOR. <br><br>Busco sempre aprender e ser melhor a cada dia!</p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arturbartolelli&theme=radical&mode=weekly" />
 
